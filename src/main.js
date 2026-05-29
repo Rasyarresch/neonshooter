@@ -3,7 +3,7 @@ import { Player } from './entities/Player.js';
 import { Bullet } from './entities/Bullet.js';
 import { Enemy } from './entities/Enemy.js';
 import { Particle } from './entities/Particle.js';
-import { LevelSystem } from './systems/LevelSystem.js';
+import { LevelSystem } from './systems/Levelsystem.js';
 import { UIManager } from './systems/UIManager.js';
 import { AudioManager } from './systems/AudioManager.js';
 import { InputHandler } from './input.js';
