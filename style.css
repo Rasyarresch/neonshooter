@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #050510;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    font-family: 'Press Start 2P', monospace;
+    overflow: hidden; 
+}
+
+canvas {
+    background-color: #0a0a1a;
+    border: 2px solid #00ffff;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    cursor: crosshair; /* ngubah cursornya gini doang ternyata */
+}
